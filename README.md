@@ -1,2 +1,2 @@
-# employeesystem
- CSC 3350 Final Project
+# Employee Management System
+The **Employee Management System** is a full-stack application built with **React** for a responsive and interactive frontend, **Java Spring Boot** for a secure and scalable backend, and **SQL** for structured data storage. It enables efficient management of employee records through features like adding, updating, deleting, and viewing employee information. RESTful APIs are tested using **Postman** to ensure reliability, while the system’s modular architecture supports scalability and robust security with authentication and data validation. The project highlights seamless integration of technologies for a user-friendly and enterprise-ready solution.
