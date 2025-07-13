@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://static.thenounproject.com/png/3627272-200.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="https://www.pngitem.com/pimgs/m/523-5233379_employee-management-system-logo-hd-png-download.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # EMPLOYEESYSTEM_FINAL
 
