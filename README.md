@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://images.seeklogo.com/logo-png/37/1/hr-systems-logo-png_seeklogo-378104.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="https://static.thenounproject.com/png/3627272-200.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # EMPLOYEESYSTEM_FINAL
 
